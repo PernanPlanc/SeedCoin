@@ -1,8 +1,8 @@
 # SeedCoin
 
 
-
 Install Python
+
 Install pycryptodome dengan cara ; buka cmd, lalu masukkan prompt : pip install pycryptodome
 Install colorama dengan cara ; buka cmd, lalu masukkan prompt : pip install colorama
 Install rich dengan cara ; buka cmd, lalu masukkan prompt : pip install rich
