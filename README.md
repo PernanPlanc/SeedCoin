@@ -10,6 +10,9 @@ login daily
 upgrade tree and storage
 
 
+![image](https://github.com/PernanPlanc/SeedCoin/assets/171103676/5953f26d-fa4c-4a03-afc7-374b9dc6b62a)
+
+
 
 How to Install 
 
