@@ -1,0 +1,2 @@
+# SeedCoim
+seed coin autoclaim
