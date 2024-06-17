@@ -35,3 +35,14 @@ Note
 10. Selamat farming Mana dengan riang gembira.
 
 Catatan; Auth seed relatif lebih cepat berubah dibanding dengan auth bot lain. Anda perlu sering mengupdatenya.
+
+
+If u found a bug or error please let me know. All script is free, if u want buy  me pizza, you can send it here
+
+
+USDT TRC20 ( Tron )
+TNWqefmAQk2hNx4RAugCejyb6dqLjaF5qZ
+
+USDT BEP20
+0x6d9e785e85dae69e3bf0c00eb42f9b0ee030fd5b
+
